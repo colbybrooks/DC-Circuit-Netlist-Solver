@@ -1,1 +1,1 @@
-# DC-Circuit-Netlist-Solver
+# DC-Netlist-Circuit-Simulator
